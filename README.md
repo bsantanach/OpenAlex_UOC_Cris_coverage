@@ -4,7 +4,7 @@ This repository presents a comparative assessment of publication coverage and me
 
 **Author:** Bruna Santanach  
 **Institution:** Universitat Oberta de Catalunya (UOC)  
-**ORCID:**https://orcid.org/0009-0008-8851-3869
+**ORCID:** https://orcid.org/0009-0008-8851-3869
 ---
 
 ## 🔗 Interactive Report
