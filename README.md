@@ -10,7 +10,7 @@ This repository presents a comparative assessment of publication coverage and me
 ## 🔗 Interactive Report
 
 You can view the full interactive HTML report generated from this study directly via GitHub Pages:
-👉 **[View Interactive Coverage Report](https://<YOUR-GITHUB-USERNAME>.github.io/<YOUR-REPOSITORY-NAME>/)**
+👉 **[View Interactive Coverage Report](https://bsantanach.github.io/<OpenAlex_UOC_Cris_coverage>/)**
 
 ---
 
